@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden; 
+    padding: 30px;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+#PageWrrapper{
+    position: absolute;
+    display: block;
+    z-index: 100;
+}
+
+#title{
+
+    font-family: Teko;
+    
+}
